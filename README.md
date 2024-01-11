@@ -1,10 +1,10 @@
 ## Get A Glimpse Of The Uploaded Pictures For Project Overview.
 
-#**Pharmacy POS (Point of Sales) Project**
+# **Pharmacy POS (Point of Sales) Project**
 
 This comprehensive Pharmacy Point of Sale system is a Java-based application that seamlessly integrates both the front-end and back-end functionalities. The project covers various modules to ensure efficient management of pharmacy operations.
 
-##**Key Modules:**
+## **Key Modules:**
 1. **Dashboard:** An intuitive dashboard providing at-a-glance insights into essential metrics and summaries of daily activities.
 
 2. **User Management:** Efficiently manage user roles, permissions, and access levels within the system.
@@ -19,7 +19,7 @@ This comprehensive Pharmacy Point of Sale system is a Java-based application tha
 
 7. **Refund:** Streamlined process for handling product returns and managing refunds.
 
-##**Technologies Used:**
+## **Technologies Used:**
 - **Programming Language:** Java
 - **Database:** MySQL
 - **Deployment:** Hosted on web hosting infrastructure for accessibility and scalability.
