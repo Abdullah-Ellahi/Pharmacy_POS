@@ -23,11 +23,13 @@ public class ConnectionProvider {
         }
 
         try{
+            // changed the credentials to local database for security reasons!
+ 
             String url = "jdbc:mysql://localhost:3306/pharmacy";
             String user = "pharmacist";
             String pass = "pharmacist";
             Connection con;
-            con = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/pharmacy", "pharmacist" , "pharmacist");
+            con = DriverManager.getConnection(url, user, pass);
             return con;
         }
         catch(Exception e){
